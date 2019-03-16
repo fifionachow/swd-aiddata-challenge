@@ -1,4 +1,4 @@
-# swd-aiddata-challenge
+# StorytelllingWithData March'19 Challenge - AidData
 
 ## Goal
 To create visualisations that answer the following:
