@@ -9,4 +9,4 @@ WHO DONATES? How are donations distributed across countries? Who donates to whom
 
 ---
 ## Submission
-[Visualisations](https://github.com/fifionachow/swd-aiddata-challenge/blob/master/swd-aiddata-visualisation.jpg)
+![Visualisation](https://github.com/fifionachow/swd-aiddata-challenge/blob/master/swd-aiddata-visualisation.jpg)
